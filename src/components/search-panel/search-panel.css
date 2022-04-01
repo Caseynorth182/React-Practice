@@ -1,0 +1,17 @@
+.search-panel {
+    margin-top: 25px;
+    background-color: rgb(65, 95, 158);
+    padding: 25px;
+    border-radius: 25px;
+    border: 1px solid black;
+    color: #fff;
+}
+
+.search-panel input,
+label {
+    width: 100%;
+    display: block;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 25px;
+}
